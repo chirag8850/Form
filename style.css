@@ -1,0 +1,33 @@
+
+div {
+    box-sizing: border-box;
+    width: 100%;
+    float: left;
+    align-content: center;
+    align-items: center;
+}
+
+form {
+    margin: 0 auto;
+    width: 600px;
+}
+
+.head1 {
+    text-align: center;
+    font-size: 35px;
+    color: red;
+}
+
+.inst {
+    text-align: center;
+    font-size: 20px;
+    font-style: italic;
+
+}
+
+.submit{
+    text-align: center;
+    font-style: italic;
+    font-size: 20px;
+    color : green;
+}
